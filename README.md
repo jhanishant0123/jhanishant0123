@@ -92,7 +92,8 @@
 
 ---
 
-> “Great chips come from clean code and clear timing.” – Nishant Jha 👨‍💻🔧  
+> <mark>“Great chips come from clean code and clear timing.” – Nishant Jha 👨‍💻🔧</mark>
+ 
 
 
 <!--
