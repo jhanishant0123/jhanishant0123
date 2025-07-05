@@ -1,5 +1,4 @@
 <!-- 🎯 Fancy Banner Header -->
-
 <p align="center">
   <img src="./banner.png" alt="VLSI Banner" width="100%" />
 </p>
