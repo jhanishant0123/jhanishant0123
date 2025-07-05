@@ -1,70 +1,112 @@
-<h1 align="center">Hey 👋, I'm Nishant Kumar Jha</h1>
-<h3 align="center">VLSI Enthusiast | Digital Design Developer | RTL & ASIC Learner</h3>
+<!-- PROFILE README FOR: Nishant Kumar Jha -->
+
+<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
+<h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | DFT | STA</h3>
+
+<p align="center">
+  <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nishant--Jha-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:jhanishant0123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-🎯 **About Me**
+## 🧠 About Me
 
-I'm a final-year B.Tech student in Electronics & Communication Engineering from Guru Ghasidas Vishwavidyalaya, with a deep-rooted passion for **VLSI design**, **Computer Architecture**, and **Digital Electronics**.  
-I thrive on building efficient hardware blocks using **Verilog**, and love transforming logic into real, working silicon via tools like **Vivado** and **Cadence Virtuoso**.
+🎓 Final-year B.Tech in Electronics & Communication Engineering  
+🏛️ Guru Ghasidas Vishwavidyalaya, Bilaspur  
+📈 CGPA: **7.20** (Till 5th Sem)  
+💡 VLSI-Driven | RTL-Focused | DFT-Curious  
 
-🚀 **Currently**, I’m exploring:
-- Advanced RTL design methodologies
-- ASIC backend flow and Static Timing Analysis
-- Digital memory design with SRAM, FIFO, and RAM modules
-- Open-source RISC-V architecture
+🔍 Passionate about:
+- RTL Design, FSMs, STA, FIFO Architecture
+- SRAM/RAM Design using Cadence
+- Verilog System Modeling and Verification
 
----
-
-🧠 **What I Know Best**
-
-- **Languages**: Verilog, SystemVerilog, C
-- **VLSI Concepts**: FSM, RTL Design, SRAM, FIFO, STA, Hazard Handling
-- **Tools**: Xilinx Vivado, Cadence Virtuoso, GTKWave, EDA Playground
-- **Other Skills**: Frontend (HTML/CSS/JS basics), Technical Documentation
+🛠️ Tools of the Trade:
+**Xilinx Vivado**, **Cadence Virtuoso**, **ModelSim**, **GTKWave**, **NI Multisim**
 
 ---
 
-🛠️ **Major Projects**
+## 🚀 Highlight Projects
 
-- 🔧 **5-Stage Pipelined RISC-V CPU**
-  - Modular Verilog design with hazard detection & forwarding
-  - 35% pipeline throughput improvement via custom logic
-  - 13+ SystemVerilog testbenches with 100% functional coverage  
-  → [GitHub Repo](https://github.com/jhanishant0123/RISC-V-Based-5-Stage-Pipelined-Processor)
+### 🔹 5-Stage Pipelined RISC-V CPU (RV32I)
+- Hazard detection & forwarding logic
+- Improved throughput by **35%**
+- 13+ testbenches | 100% functional coverage  
+➡️ [View Project](https://github.com/jhanishant0123/RISC-V-Based-5-Stage-Pipelined-Processor)
 
-- 💾 **64-bit SRAM Memory (6T Cell)**
-  - Schematic and layout in Cadence Virtuoso
-  - Simulated power, stability, read/write speed, and noise margins
+### 🔹 64-bit SRAM Memory Design
+- Built with 6T cell in Cadence Virtuoso
+- Full DRC/LVS-verified schematic + layout
+- Simulated power, delay & noise margin
 
-- 📦 **Synchronous & Asynchronous FIFO Design**
-  - Designed optimal memory depths
-  - Fully verified with edge-case testbenches
+### 🔹 FIFO Design (Sync + Async)
+- Optimized FIFO depth via system analysis
+- Handled metastability and domain crossing
+- Verified data integrity with waveform debugging
 
-- 🧠 **Single and Dual Port RAM**
-  - Simulated under various operational conditions
-  - Strengthened digital memory architecture fundamentals
-
----
-
-📚 **Notable Courses & Certifications**
-
-- CMOS Digital VLSI Design – IIT Roorkee (NPTEL)  
-- Low Power VLSI Design – IIT Kharagpur (NPTEL)  
-- C-Based VLSI Design – IIT Guwahati (NPTEL)  
-- Analog VLSI Design – IIT Kanpur (NPTEL)  
-- Digital Design Internship – Codec Technologies (AICTE, Google Partnered)  
-- Chip to Startup (C2S) Program – NIELIT Calicut, MeitY
+### 🔹 Dual/Single-Port RAM
+- Designed in Verilog, simulated in Vivado
+- Validated under various functional scenarios
 
 ---
 
-🌐 **Let's Connect**
+## 💻 Technical Skills
 
-- 📧 [jhanishant0123@gmail.com](mailto:jhanishant0123@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nishant-jha777/)  
-- 💻 [GitHub](https://github.com/jhanishant0123)
+| Area               | Tools & Technologies                                                                 |
+|--------------------|---------------------------------------------------------------------------------------|
+| 🧠 HDL Languages    | Verilog, basic SystemVerilog                                                         |
+| 🧰 VLSI Tools       | Xilinx Vivado, Cadence Virtuoso, GTKWave, ModelSim, NI Multisim                      |
+| 🏗️ Core Concepts   | FSMs, RTL Design, FIFO, SRAM, DFT, Static Timing Analysis                            |
+| 💻 Programming      | C, C++, Python                                                                       |
+| 🌐 Extras           | Git, Markdown, Linux CLI, HTML/CSS (for personal projects)                          |
 
 ---
 
-💡 *“Driven by logic, powered by silicon, and wired for innovation.”*
+## 🎓 Certified VLSI Courses
+
+- 🧾 **VLSI Design Flow (RTL to GDS)** – *IIIT Delhi* (Prof. Sneh Saurabh)  
+- 🧾 **CMOS Digital VLSI Design** – *IIT Roorkee* (Prof. Sudeb Dasgupta)  
+- 🧾 **C-Based VLSI Design** – *IIT Guwahati* (Prof. Chandan Karfa)  
+- 🧾 **Low Power VLSI Design** – *IIT Kharagpur* (Prof. Indranil Sengupta)  
+- 🧾 **Analog VLSI Design** – *IIT Kanpur* (Prof. Imon Mondal)  
+- 🧪 **HDL Lab + Virtual VLSI Foundation** – *NIELIT Calicut* (C2S Initiative)
+
+---
+
+## 🏆 Activities & Achievements
+
+- 🧪 **Intern** – Codec Technologies (Digital Design & HDL Projects)  
+- 🌟 **Qualified NSO Round 1** – Class XII  
+- 💼 **Marketing Lead** – Silicon Society, GGV  
+- 🧍‍♂️ **Volunteer** – NSS + Equilibrio Solasta Cultural Fest  
+- 🧑‍💼 **Internshala Student Partner** – April 2025 – Present
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhanishant0123&theme=dark" height="150" />
+</p>
+
+---
+
+## 🔗 Explore More
+
+- 📂 [My GitHub Projects](https://github.com/jhanishant0123?tab=repositories)  
+- 📄 [Resume (View/Download)](https://drive.google.com/file/d/1pD4SBYTTI0GGCDXX2cUoFMDgeE_UUCgb/view)  
+- 🌐 [Personal Portfolio Website](https://nishant-jha-portfolio.lovable.app)
+
+---
+
+> 🚀 *“Great chips come from clean code and clear timing.” – Nishant Jha*
 
