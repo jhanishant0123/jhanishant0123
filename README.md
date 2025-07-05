@@ -1,57 +1,22 @@
-<!-- 🚀 Fancy VLSI GitHub Profile README by Nishant Kumar Jha -->
+<!-- 🎯 Fancy Banner Header -->
 
-<!-- 🎯 Banner Header with Image -->
 <p align="center">
   <img src="./banner.png" alt="VLSI Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1><pink neon white>
+
+<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
 <h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | DFT | STA</h3>
 
-
-<!-- 🎖️ Badges -->
 <p align="center">
   <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Nishant--Jha-blue?style=for-the-badge&logo=linkedin" />
   </a>
-<a href="mailto:jhanishant0123@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
-</a>
-
-
-</p>
-
----
-
-<!-- 🚀 Fancy VLSI GitHub Profile README by Nishant Kumar Jha -->
-
-<!-- 🎯 Banner Header -->
-<p align="center">
-  <img src="./banner.png" alt="VLSI Banner" width="100%" />
-</p>
-
-<!-- ⌨️ Typing Effect for Name -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Kumar+Jha;VLSI+Frontend+Developer;RTL+%7C+STA+%7C+DFT+Learner" />
-</p>
-
-<!-- ✨ Fancy Title -->
-<h1 align="center">✨🚀 𝙃𝙞, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙣𝙩 𝙆𝙪𝙢𝙖𝙧 𝙅𝙝𝙖 🚀✨</h1>
-<h3 align="center">🎓 Final-Year ECE Undergrad | 💡 RTL | DFT | STA Enthusiast</h3>
-
-<!-- 🎖️ Social Badges -->
-<p align="center">
-  <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jhanishant0123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:jhanishant0123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -69,7 +34,7 @@
 - SRAM/RAM Design using Cadence
 - Verilog System Modeling and Verification
 
-🛠️ Tools of the Trade:  
+🛠️ Tools of the Trade:
 **Xilinx Vivado**, **Cadence Virtuoso**, **ModelSim**, **GTKWave**, **NI Multisim**
 
 ---
@@ -77,23 +42,23 @@
 ## 🚀 Highlight Projects
 
 ### 🔹 5-Stage Pipelined RISC-V CPU (RV32I)
-- Hazard detection & forwarding logic  
-- Improved throughput by **35%**  
+- Hazard detection & forwarding logic
+- Improved throughput by **35%**
 - 13+ testbenches | 100% functional coverage  
 ➡️ [View Project](https://github.com/jhanishant0123/RISC-V-Based-5-Stage-Pipelined-Processor)
 
 ### 🔹 64-bit SRAM Memory Design
-- Built with 6T cell in Cadence Virtuoso  
-- Full DRC/LVS-verified schematic + layout  
+- Built with 6T cell in Cadence Virtuoso
+- Full DRC/LVS-verified schematic + layout
 - Simulated power, delay & noise margin
 
 ### 🔹 FIFO Design (Sync + Async)
-- Optimized FIFO depth via system analysis  
-- Handled metastability and domain crossing  
+- Optimized FIFO depth via system analysis
+- Handled metastability and domain crossing
 - Verified data integrity with waveform debugging
 
 ### 🔹 Dual/Single-Port RAM
-- Designed in Verilog, simulated in Vivado  
+- Designed in Verilog, simulated in Vivado
 - Validated under various functional scenarios
 
 ---
@@ -131,15 +96,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=jhanishant0123&theme=dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jhanishant0123&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhanishant0123&theme=dark" height="150" />
 </p>
 
 ---
@@ -148,8 +109,8 @@
 
 - 📂 [My GitHub Projects](https://github.com/jhanishant0123?tab=repositories)  
 - 📄 [Resume (View/Download)](https://drive.google.com/file/d/1NJPo7Qt06sDi8CZutqz6FoHfZTJdDD3u/view?usp=sharing)  
-- 🌐 [Personal Portfolio Website](https://nishant-jha-portfolio.lovable.app)
+- 🌐 [Personal Portfolio Website](Nishant_Portfolio)
 
 ---
 
-> 🌟 *“Great chips come from clean code and clear timing.” – Nishant Jha*
+> 🚀 *“Great chips come from clean code and clear timing.” – Nishant Jha*
