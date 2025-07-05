@@ -26,6 +26,37 @@
 
 ---
 
+<!-- 🚀 Fancy VLSI GitHub Profile README by Nishant Kumar Jha -->
+
+<!-- 🎯 Banner Header -->
+<p align="center">
+  <img src="./banner.png" alt="VLSI Banner" width="100%" />
+</p>
+
+<!-- ⌨️ Typing Effect for Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Kumar+Jha;VLSI+Frontend+Developer;RTL+%7C+STA+%7C+DFT+Learner" />
+</p>
+
+<!-- ✨ Fancy Title -->
+<h1 align="center">✨🚀 𝙃𝙞, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙣𝙩 𝙆𝙪𝙢𝙖𝙧 𝙅𝙝𝙖 🚀✨</h1>
+<h3 align="center">🎓 Final-Year ECE Undergrad | 💡 RTL | DFT | STA Enthusiast</h3>
+
+<!-- 🎖️ Social Badges -->
+<p align="center">
+  <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jhanishant0123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧠 About Me
 
 🎓 Final-year B.Tech in Electronics & Communication Engineering  
@@ -38,7 +69,7 @@
 - SRAM/RAM Design using Cadence
 - Verilog System Modeling and Verification
 
-🛠️ Tools of the Trade:
+🛠️ Tools of the Trade:  
 **Xilinx Vivado**, **Cadence Virtuoso**, **ModelSim**, **GTKWave**, **NI Multisim**
 
 ---
@@ -46,23 +77,23 @@
 ## 🚀 Highlight Projects
 
 ### 🔹 5-Stage Pipelined RISC-V CPU (RV32I)
-- Hazard detection & forwarding logic
-- Improved throughput by **35%**
+- Hazard detection & forwarding logic  
+- Improved throughput by **35%**  
 - 13+ testbenches | 100% functional coverage  
 ➡️ [View Project](https://github.com/jhanishant0123/RISC-V-Based-5-Stage-Pipelined-Processor)
 
 ### 🔹 64-bit SRAM Memory Design
-- Built with 6T cell in Cadence Virtuoso
-- Full DRC/LVS-verified schematic + layout
+- Built with 6T cell in Cadence Virtuoso  
+- Full DRC/LVS-verified schematic + layout  
 - Simulated power, delay & noise margin
 
 ### 🔹 FIFO Design (Sync + Async)
-- Optimized FIFO depth via system analysis
-- Handled metastability and domain crossing
+- Optimized FIFO depth via system analysis  
+- Handled metastability and domain crossing  
 - Verified data integrity with waveform debugging
 
 ### 🔹 Dual/Single-Port RAM
-- Designed in Verilog, simulated in Vivado
+- Designed in Verilog, simulated in Vivado  
 - Validated under various functional scenarios
 
 ---
