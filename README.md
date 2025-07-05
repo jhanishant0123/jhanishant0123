@@ -7,7 +7,7 @@
 
 <!-- ⌨️ Typing Effect in Neon Pink & White (Inspired by Reference Image) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=700&height=60&center=true&vCenter=true&repeat=Infinity&lines=Hi%2C+I'm+Nishant+Kumar+Jha;%F0%9F%8E%93+ Final-Year+ECE+Undergrad+%7C+RTL+%7C+DFT+%7C+STA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=700&height=60&center=true&vCenter=true&repeat=Infinity&lines=Hi%2C+I'm+Nishant+Kumar+Jha;%F0%9F%8E%93+Final-Year+ECE+Undergrad+%7C+RTL+%7C+DFT+%7C+STA+Enthusiast" />
 </p>
 
 
