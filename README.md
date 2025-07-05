@@ -1,22 +1,29 @@
-<!-- 🎯 Fancy Banner Header -->
+<!-- 🚀 Fancy VLSI GitHub Profile README by Nishant Kumar Jha -->
 
+<!-- 🎯 Banner Header with Image -->
 <p align="center">
   <img src="./banner.png" alt="VLSI Banner" width="100%" />
 </p>
 
+<!-- ⌨️ Typing Effect for Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Kumar+Jha;VLSI+Frontend+Developer;RTL+%7C+STA+%7C+DFT+Learner" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
-<h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | DFT | STA</h3>
+<!-- ✨ Header with Emoji Decoration -->
+<h1 align="center">✨🚀 𝙃𝙞, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙣𝙩 𝙆𝙪𝙢𝙖𝙧 𝙅𝙝𝙖 🚀✨</h1>
+<h3 align="center">🎓 Final-Year ECE Undergrad | 💡 RTL | DFT | STA Enthusiast</h3>
 
+<!-- 🎖️ Badges -->
 <p align="center">
   <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nishant--Jha-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jhanishant0123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -96,11 +103,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhanishant0123&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jhanishant0123&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jhanishant0123&theme=react-dark" />
 </p>
 
 ---
@@ -109,9 +120,8 @@
 
 - 📂 [My GitHub Projects](https://github.com/jhanishant0123?tab=repositories)  
 - 📄 [Resume (View/Download)](https://drive.google.com/file/d/1NJPo7Qt06sDi8CZutqz6FoHfZTJdDD3u/view?usp=sharing)  
-- 🌐 [Personal Portfolio Website](Nishant_Portfolio)
+- 🌐 [Personal Portfolio Website](https://nishant-jha-portfolio.lovable.app)
 
 ---
 
-> 🚀 *“Great chips come from clean code and clear timing.” – Nishant Jha*
-
+> 🌟 *“Great chips come from clean code and clear timing.” – Nishant Jha*
