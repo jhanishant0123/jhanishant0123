@@ -84,7 +84,7 @@
 ## 🏆 Activities & Achievements
 
 - 🧪 **Intern** – Codec Technologies (Digital Design & HDL Projects)  
-- 🌟 **Qualified NSO Round 1** – Class XII  
+- 🌟 **Qualified NSO Round 1** – Class IX  
 - 💼 **Marketing Lead** – Silicon Society, GGV  
 - 🧍‍♂️ **Volunteer** – NSS + Equilibrio Solasta Cultural Fest  
 - 🧑‍💼 **Internshala Student Partner** – April 2025 – Present
