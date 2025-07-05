@@ -5,7 +5,7 @@
   <img src="./banner.png" alt="VLSI Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1><pink neon white>
 <h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | DFT | STA</h3>
 
 
