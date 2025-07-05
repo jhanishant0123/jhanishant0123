@@ -17,9 +17,10 @@
   <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jhanishant0123@gmail.com" target="_blank">
+<a href="mailto:jhanishant0123@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
 </a>
+
 
 </p>
 
