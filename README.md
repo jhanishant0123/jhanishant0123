@@ -5,13 +5,11 @@
   <img src="./banner.png" alt="VLSI Banner" width="100%" />
 </p>
 
-<!-- ⌨️ Typing Effect for Name -->
+<!-- ⌨️ Typing Effect for Name (Neon Pink & White) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Kumar+Jha;VLSI+Frontend+Developer;RTL+%7C+STA+%7C+DFT+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF00FF&vCenter=true&multiline=true&width=700&height=60&center=true&repeat=Infinity&lines=Hi%2C+I'm+Nishant+Kumar+Jha;Final-Year+ECE+Undergrad+%7C+RTL+%7C+DFT+%7C+STA+Enthusiast" />
 </p>
 
-<!-- ✨ Header with Emoji Decoration -->
-<h1 align="center">✨🚀 𝙃𝙞, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙣𝙩 𝙆𝙪𝙢𝙖𝙧 𝙅𝙝𝙖 🚀✨</h1>
 <h3 align="center">🎓 Final-Year ECE Undergrad | 💡 RTL | DFT | STA Enthusiast</h3>
 
 <!-- 🎖️ Badges -->
