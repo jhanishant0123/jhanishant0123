@@ -1,4 +1,23 @@
-<!-- PROFILE README FOR: Nishant Kumar Jha -->
+<<p align="center">
+  <img src="./ChatGPT%20Image%20Jul%205%2C%202025%2C%2007_11_58%20PM.png" alt="VLSI Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
+<h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | DFT | STA</h3>
+
+<p align="center">
+  <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nishant--Jha-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:jhanishant0123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+!-- PROFILE README FOR: Nishant Kumar Jha -->
 
 <h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
 <h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | DFT | STA</h3>
