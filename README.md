@@ -18,8 +18,6 @@
  <a href="mailto:jhanishant0123@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
 </a>
-
-</a>
 </p>
 
 ---
