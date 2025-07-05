@@ -5,9 +5,19 @@
   <img src="./banner.png" alt="VLSI Banner" width="100%" />
 </p>
 
-<!-- ⌨️ Typing Effect in Neon Pink & White (Inspired by Reference Image) -->
+<h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
+<h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | DFT | STA</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=700&height=60&center=true&vCenter=true&repeat=Infinity&lines=Hi%2C+I'm+Nishant+Kumar+Jha;%F0%9F%8E%93+Final-Year+ECE+Undergrad+%7C+RTL+%7C+DFT+%7C+STA+Enthusiast" />
+  <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nishant--Jha-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:jhanishant0123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 
