@@ -1,4 +1,4 @@
-![Image Alt](https://drive.google.com/file/d/1E5r0PZkRtv3IyyqtnzRjT-mCYIo5CXOL/view?usp=sharing)<!-- 🎯 Fancy Banner Header -->
+<!-- 🎯 Fancy Banner Header -->
 <p align="center">
   <img src="./banner.png" alt="VLSI Banner" width="100%" />
 </p>
