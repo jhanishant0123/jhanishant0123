@@ -14,23 +14,16 @@
   </a>
   <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nishant--Jha-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-<a href="mailto:jhanishant0123@gmail.com" target="_blank"
 </a>
 
 </p>
 
 
 <!-- 🎖️ Badges -->
-<p align="center">
-  <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jhanishant0123@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jhanishant0123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+
   </a>
 </p>
 
