@@ -15,9 +15,9 @@
   <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nishant--Jha-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:jhanishant0123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="mailto:jhanishant0123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+</a>
 </p>
 
 ---
@@ -79,7 +79,6 @@
 
 - 🧾 **VLSI Design Flow (RTL to GDS)** – *IIIT Delhi* (Prof. Sneh Saurabh)  
 - 🧾 **CMOS Digital VLSI Design** – *IIT Roorkee* (Prof. Sudeb Dasgupta)  
-- 🧾 **C-Based VLSI Design** – *IIT Guwahati* (Prof. Chandan Karfa)  
 - 🧾 **Low Power VLSI Design** – *IIT Kharagpur* (Prof. Indranil Sengupta)  
 - 🧾 **Analog VLSI Design** – *IIT Kanpur* (Prof. Imon Mondal)  
 - 🧪 **HDL Lab + Virtual VLSI Foundation** – *NIELIT Calicut* (C2S Initiative)
@@ -90,7 +89,6 @@
 
 - 🧪 **Intern** – Codec Technologies (Digital Design & HDL Projects)  
 - 🌟 **Qualified NSO Round 1** – Class IX  
-- 💼 **Marketing Lead** – Silicon Society, GGV  
 - 🧍‍♂️ **Volunteer** – NSS + Equilibrio Solasta Cultural Fest  
 - 🧑‍💼 **Internshala Student Partner** – April 2025 – Present
 
