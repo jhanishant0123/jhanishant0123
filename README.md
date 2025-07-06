@@ -75,22 +75,6 @@
 
 ---
 
-## 🎓 Certified VLSI Courses
-
-- 🧾 **VLSI Design Flow (RTL to GDS)** – *IIIT Delhi* (Prof. Sneh Saurabh)  
-- 🧾 **CMOS Digital VLSI Design** – *IIT Roorkee* (Prof. Sudeb Dasgupta)  
-- 🧾 **Low Power VLSI Design** – *IIT Kharagpur* (Prof. Indranil Sengupta)  
-- 🧾 **Analog VLSI Design** – *IIT Kanpur* (Prof. Imon Mondal)  
-- 🧪 **HDL Lab + Virtual VLSI Foundation** – *NIELIT Calicut* (C2S Initiative)
-
----
-
-## 🏆 Activities & Achievements
-
-- 🧪 **Intern** – Codec Technologies (Digital Design & HDL Projects)  
-- 🌟 **Qualified NSO Round 1** – Class IX  
-- 🧍‍♂️ **Volunteer** – NSS + Equilibrio Solasta Cultural Fest  
-- 🧑‍💼 **Internshala Student Partner** – April 2025 – Present
 
 ---
 
