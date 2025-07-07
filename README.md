@@ -103,7 +103,7 @@
 
 - 📂 [My GitHub Projects](https://github.com/jhanishant0123?tab=repositories)  
 - 📄 [Resume (View/Download)](https://drive.google.com/file/d/1NJPo7Qt06sDi8CZutqz6FoHfZTJdDD3u/view?usp=sharing)  
-- 🌐 [Personal Portfolio Website](Nishant_Portfolio)
+- 🌐 [Personal Portfolio Website](https://nishant-jha-portfolio.lovable.app/)
 
 ---<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Jha_Nishant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jha_Nishant" /></a></p><br><br>
