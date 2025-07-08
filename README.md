@@ -105,13 +105,11 @@
 - 📄 [Resume (View/Download)](https://drive.google.com/file/d/1NJPo7Qt06sDi8CZutqz6FoHfZTJdDD3u/view?usp=sharing)  
 - 🌐 [Personal Portfolio Website](https://nishant-jha-portfolio.lovable.app/)
 
-<p align="center">
+</p>
   <img src="https://komarev.com/ghpvc/?username=jhanishant0123&style=flat-square&color=0e75b6" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical&cache_seconds=86400" height="150" />
-
+<
 
 
 ---<h3 align="left">Support:</h3>
