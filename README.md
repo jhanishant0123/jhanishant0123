@@ -25,8 +25,7 @@
 ## 🧠 About Me
 
 🎓 Final-year B.Tech in Electronics & Communication Engineering  
-🏛️ Guru Ghasidas Vishwavidyalaya, Bilaspur  
-📈 CGPA: **7.20** (Till 5th Sem)  
+🏛️ Guru Ghasidas Vishwavidyalaya, Bilaspur    
 💡 VLSI-Driven | RTL-Focused | DFT-Curious  
 
 🔍 Passionate about:
