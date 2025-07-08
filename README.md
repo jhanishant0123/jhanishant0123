@@ -26,7 +26,7 @@
 
 🎓 Final-year B.Tech in Electronics & Communication Engineering  
 🏛️ Guru Ghasidas Vishwavidyalaya, Bilaspur    
-💡 VLSI-Driven | RTL-Focused | DFT-Curious  
+💡 VLSI-Driven | RTL-Focused | ASIC Design/Verification  
 
 🔍 Passionate about:
 - RTL Design, FSMs, STA, FIFO Architecture
