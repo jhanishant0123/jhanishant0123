@@ -111,13 +111,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical&cache_seconds=86400" height="150" />
-  <img src="https://streak-stats.demolab.com?user=jhanishant0123&theme=dark" height="150" />
-</p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanishant0123&layout=compact&theme=radical" />
-</p>
 
 
 ---<h3 align="left">Support:</h3>
