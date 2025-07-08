@@ -43,7 +43,7 @@
 ### 🔹 5-Stage Pipelined RISC-V CPU (RV32I)
 - Hazard detection & forwarding logic
 - Improved throughput by **35%**
-- 13+ testbenches | 100% functional coverage  
+- Simulated 5 core module along with its testbenches | 100% functional coverage  
 ➡️ [View Project](https://github.com/jhanishant0123/RISC-V-Based-5-Stage-Pipelined-Processor)
 
 ### 🔹 64-bit SRAM Memory Design
