@@ -80,7 +80,7 @@
 <p 
   <img src="https://streak-stats.demolab.com?user=jhanishant0123&theme=dark" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img https://streak-stats.demolab.com/?user=jhanishant0123&theme=dark" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanishant0123&layout=compact&theme=dark" alt="Top Languages" />
 </p>
