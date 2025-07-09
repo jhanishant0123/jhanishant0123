@@ -78,8 +78,6 @@
 <h2>📊 GitHub Stats</h2>
 
 <p 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jhanishant0123&theme=dark" height="150" />
 </p>
   <br />
