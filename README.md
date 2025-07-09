@@ -83,7 +83,7 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jhanishant0123&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhanishant0123&layout=compact&theme=dark)
+
 
 </p>
 
@@ -112,7 +112,7 @@
 </p>
   <img src="https://komarev.com/ghpvc/?username=jhanishant0123&style=flat-square&color=0e75b6" alt="Profile Views" />
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhanishant0123&layout=compact&theme=dark)
 
 
 ---<h3 align="left">Support:</h3>
