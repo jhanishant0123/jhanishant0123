@@ -77,7 +77,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
+<p 
   <img src="https://streak-stats.demolab.com?user=jhanishant0123&theme=dark" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=dark" alt="GitHub Stats" />
