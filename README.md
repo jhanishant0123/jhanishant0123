@@ -80,7 +80,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical&cache_seconds=86400" height="150" />
-  ![GitHub Streak](https://streak-stats.demolab.com?user=jhanishant0123&theme=dark)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jhanishant0123&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhanishant0123&layout=compact&theme=dark)
+
 </p>
 
 
