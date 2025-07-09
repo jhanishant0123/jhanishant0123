@@ -83,7 +83,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jhanishant0123&theme=dark" height="150" />
 </p>
   <br />
-<img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanishant0123&layout=compact&theme=dark" alt="Top Languages" />
 </p>
