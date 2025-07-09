@@ -70,7 +70,7 @@
 | 🧰 VLSI Tools       | Xilinx Vivado, Cadence Virtuoso, GTKWave, ModelSim, NI Multisim                      |
 | 🏗️ Core Concepts   | FSMs, RTL Design, FIFO, SRAM, DFT, Static Timing Analysis                            |
 | 💻 Programming      | C, C++, Python                                                                       |
-| 🌐 Extras           | Git, Markdown, Linux CLI, HTML/CSS (for personal projects)                          |
+| 🌐 Extras           | Git, Markdown, Linux(Basics), HTML/CSS (for personal projects)                          |
 
 ---
 
