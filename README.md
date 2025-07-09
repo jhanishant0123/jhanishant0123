@@ -78,7 +78,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhanishant0123&theme=dark" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhanishant0123&theme=dark" height="200" />
 </p>
   <br />
 <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=yellowish" alt="GitHub Stats" />
