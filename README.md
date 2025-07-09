@@ -75,17 +75,17 @@
 ---
 
 
-
-## 📈 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=radical&cache_seconds=86400" height="150" />
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jhanishant0123&theme=dark)
-
-
+  <img src="https://streak-stats.demolab.com?user=jhanishant0123&theme=dark" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanishant0123&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+
 
 
 ---
