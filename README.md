@@ -35,7 +35,7 @@
 - Verilog System Modeling and Verification
 
 🛠️ Tools of the Trade:
-**Xilinx Vivado**, **Cadence Virtuoso**, **ModelSim**, **GTKWave**, **NI Multisim**
+**Xilinx Vivado**, **Cadence Virtuoso**, **ModelSim**, **GTKWave**, **Questasim**
 
 ---
 
