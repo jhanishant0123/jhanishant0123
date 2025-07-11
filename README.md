@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar Jha</h1>
-<h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast | RTL | ASIC Design/verification | STA</h3>
+<h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast - RTL, ASIC Design/verification, STA|</h3>
 
 <p align="center">
   <a href="https://nishant-jha-portfolio.lovable.app" target="_blank">
