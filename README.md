@@ -68,7 +68,7 @@
 | Area               | Tools & Technologies                                                                 |
 |--------------------|---------------------------------------------------------------------------------------|
 | 🧠 HDL Languages    | Verilog, basic SystemVerilog                                                         |
-| 🧰 VLSI Tools       | Xilinx Vivado, Cadence Virtuoso, GTKWave, ModelSim, NI Multisim                      |
+| 🧰 VLSI Tools       | Xilinx Vivado, Cadence Virtuoso, GTKWave, ModelSim, Questasim                      |
 | 🏗️ Core Concepts   | FSMs, RTL Design, FIFO, SRAM, DFT, Static Timing Analysis                            |
 | 💻 Programming      | C, C++, Python                                                                       |
 | 🌐 Extras           | Git, Markdown, Linux(Basics), HTML/CSS (for personal projects)                          |
