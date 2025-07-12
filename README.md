@@ -78,7 +78,7 @@
 
 <h2>📊 GitHub Stats
 <p align="left">
-  <img src="hhttps://streak-stats.demolab.com/?user=torvalds&theme=dark" />
+  <img src="hhttps://streak-stats.demolab.com/?user=jhanishant0123&theme=dark" />
 </p>
 
 
