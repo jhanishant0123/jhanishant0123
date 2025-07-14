@@ -78,11 +78,9 @@
 
 <h2>📊 GitHub Stats
 <p align="left">
-  <img src="hhttps://streak-stats.demolab.com/?user=jhanishant0123&theme=dark" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhanishant0123&theme=highcontrast&border_radius=5.5)](https://git.io/streak-stats)
 </p>
 
-
-</p>
 
 
 </p>
