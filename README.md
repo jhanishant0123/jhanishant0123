@@ -76,13 +76,10 @@
 | 💻 Programming      | C, C++, Python                                                                       |
 | 🌐 Extras           | Git, Markdown, Linux(Basics), HTML/CSS (for personal projects)                          |
 
----
-
 
 <h2>📊 GitHub Stats
 <p align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jhanishant0123&theme=highcontrast&border_radius=5.5" alt="GitHub Streak" /></a>
-
+<img src=(https://streak-stats.demolab.com/?userjhanishant0123)](https://git.io/streak-stats)
 
 </p>
   <br />
