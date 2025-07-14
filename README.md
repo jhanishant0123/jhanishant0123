@@ -1,7 +1,6 @@
  <img src="https://komarev.com/ghpvc/?username=jhanishant0123&style=flat-square&color=0e75b6" alt="Profile Views" />
 </p>
 
-
 <h1 align="center">Hi Recruiters 👋, I'm Nishant Kumar Jha</h1>
 <h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast - RTL, ASIC Design/verification, STA|</h3>
 
