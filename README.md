@@ -1,3 +1,7 @@
+ <img src="https://komarev.com/ghpvc/?username=jhanishant0123&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p>
+
+
 <h1 align="center">Hi Recruiters 👋, I'm Nishant Kumar Jha</h1>
 <h3 align="center">Final-Year ECE Undergrad | VLSI Frontend Enthusiast - RTL, ASIC Design/verification, STA|</h3>
 
@@ -113,11 +117,7 @@
 - 🌐 [Personal Portfolio Website](https://nishant-jha-portfolio.lovable.app/)
 
 </p>
-  <img src="https://komarev.com/ghpvc/?username=jhanishant0123&style=flat-square&color=0e75b6" alt="Profile Views" />
-</p>
-
-
-
+ 
 ---<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Jha_Nishant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jha_Nishant" /></a></p><br><br>
 
