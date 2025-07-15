@@ -109,7 +109,7 @@
 ## 🔗 Explore More
 
 - 📂 [My GitHub Projects](https://github.com/jhanishant0123?tab=repositories)  
-- 📄 [Resume (View/Download)](https://drive.google.com/file/d/1znmA3c4k4tut12XuZcHWWJ9VEYcXTpBU/view?usp=sharing)  
+- 📄 [Resume (View/Download)](https://drive.google.com/file/d/1JDWpSjzlBzhJXZD2BkZU-MWaKhromfgx/view?usp=sharing)  
 - 🌐 [Personal Portfolio Website](https://nishant-jha-portfolio.lovable.app/)
 
 </p>
