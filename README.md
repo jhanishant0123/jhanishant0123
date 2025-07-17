@@ -80,7 +80,9 @@
 <h2>📊 GitHub Stats
 
 <p align="left">
-<img src=(https://streak-stats.demolab.com/?userjhanishant0123)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jhanishant0123&theme=highcontrast)](https://git.io/streak-stats)
+
 </p>
   <br />
 <img src="https://github-readme-stats.vercel.app/api?username=jhanishant0123&show_icons=true&theme=yellowish" alt="GitHub Stats" />
