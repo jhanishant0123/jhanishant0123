@@ -1,4 +1,4 @@
- <img src="https://komarev.com/ghpvc/?username=jhanishant0123&style=flat-square&color=0e75b6" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jhanishant0123&style=flat-square&color=0e75b6" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi Recruiters 👋, I'm Nishant Kumar Jha</h1>
