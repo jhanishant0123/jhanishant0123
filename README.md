@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="nishant-vlsi-portfolio.lovable.app">
+  <a href="https://preview--nishant-vlsi-portfolio.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://www.linkedin.com/in/nishant-jha777/" target="_blank">
